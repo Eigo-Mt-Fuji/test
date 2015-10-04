@@ -1,0 +1,13 @@
+## Rmarkdown
+* 普通のmarkdownの中に
+* Rのコードを入れてグラフや表、分析した情報を挿入可能
+```{r}
+## load iris data set.
+data(iris)
+## show summary 
+summary(iris)
+
+```
+* おっぱい画像だってほら！恐れおのののかん？
+![恐れおのののか](https://scontent.cdninstagram.com/hphotos-xfa1/t51.2885-15/s320x320/e15/11334551_969236999795335_1626642296_n.jpg "恐れおののけ")
+
